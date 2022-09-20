@@ -5,9 +5,11 @@ Hey leads!
 
 I have created an REST API using NodeJS, express framework, and mongoDB as by database service provider. 
 We can have the CRUD operations over this API very easily, for the development purposes am using Postman to check this API.
-**There are four different kind of request that my API can handle.**
+
+**__There are four different kind of request that my API can handle.__**
 
 CREATE (router.post)
+![image](https://user-images.githubusercontent.com/93596846/191343052-efc92d8a-1c1b-4cd1-bf9c-32ec388453b8.png)
 
 READ (router.get)
 
