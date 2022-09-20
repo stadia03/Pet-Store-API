@@ -19,18 +19,31 @@ We only have one document with unique id : "632956f43aa2c6d90ecc0681";
 ***Let's create a document***
 
 CREATE (router.post)
-![image](https://user-images.githubusercontent.com/93596846/191343530-c0a115fc-f011-4aab-b24c-2022cd8f6c88.png)
+![image](https://user-images.githubusercontent.com/93596846/191355368-eb660416-19d6-4bf8-b991-a99a973678e3.png)
 
 ***Let's check the documents now
+![image](https://user-images.githubusercontent.com/93596846/191355489-80ae06ea-dfa8-474d-ae13-a5b5906f5129.png)
 
+***Hey! I added some more pets :)***
 
 By individual id (router.get(‘/:id’)
+***Let's try the id number : "632a1e82b755a0296c9d7df5"
+![image](https://user-images.githubusercontent.com/93596846/191355796-4e5f8543-518c-463e-a243-116ba2f87fb0.png)
 
+
+***Now as an pet shop owner, let's try to sell an pet and change the "owner_name" field,
+*** We will sell "brisky" , "Pomeranian" dog with id:632a1d28b755a0296c9d7ded.
 
 UPDATE (router.patch)
 
+![image](https://user-images.githubusercontent.com/93596846/191356413-e60f3904-79f5-4f87-ade7-2119528118ae.png)
+
+***I have sended an respond in json format, so you can imiditely check the changed document 😁  ***
+
+***Lastly Let's try to delete the document with id : 632a1e82b755a0296c9d7df5***
 DELETE (router.delete)
 
+![image](https://user-images.githubusercontent.com/93596846/191358678-8e141917-eeb6-4161-9c51-9e0186873910.png)
 
 
 
