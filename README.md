@@ -9,7 +9,7 @@ We can have the CRUD operations over this API very easily, for the development p
 **__There are four different kind of request that my API can handle.__**
 
 CREATE (router.post)
-![image](https://user-images.githubusercontent.com/93596846/191343052-efc92d8a-1c1b-4cd1-bf9c-32ec388453b8.png)
+![image](https://user-images.githubusercontent.com/93596846/191343530-c0a115fc-f011-4aab-b24c-2022cd8f6c88.png)
 
 READ (router.get)
 
