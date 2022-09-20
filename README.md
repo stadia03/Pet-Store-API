@@ -38,7 +38,7 @@ By individual id (router.get(‘/:id’)
 
 Now as an pet shop owner, let's try to sell an pet and change the "owner_name" field,
 
-___We will sell "brisky" , "Pomeranian" dog with id:632a1d28b755a0296c9d7ded___
+___We will sell "brisky" , "Pomeranian" dog to kishan with id:632a1d28b755a0296c9d7ded___
 
 UPDATE (router.patch)
 
@@ -57,14 +57,30 @@ Now let's check the documents
 ![image](https://user-images.githubusercontent.com/93596846/191361771-f5ac1174-24b4-40ef-bd7d-a3b1f6d3dcfa.png)
 
 
+NOW LET'S GET INTO THE CODE!!
+------------------------------
 
 Am using local port 9000 to set my server.
 
-Here are the dependencies and their versions :
+![image](https://user-images.githubusercontent.com/93596846/191362307-a48b42d2-c055-4a4a-8a3a-1aa26145659c.png)
+
+Here are the dependencies with respective versions :
+
+![image](https://user-images.githubusercontent.com/93596846/191362442-efa72beb-b6a7-498b-a74b-d1d294b8d51b.png)
+
 
 Am routing all request from the client to mongoDB database
 
+![image](https://user-images.githubusercontent.com/93596846/191362657-2b7a8120-8cc1-41ba-9433-b00319d8eeec.png)
+
+
 Of course we have to create a new schema account to our given task!
+
+![image](https://user-images.githubusercontent.com/93596846/191362762-af8a09f2-4464-4831-82c8-7a4fb6033397.png)
+
+YOU CAN GET INTO gaurab_routes FOLDER TO CHECK ALL THE REQUEST HANDLING FUNCTIONS ..
+
+Hope you found this article worth your time!! ThankYou. 😄
  
  
 
