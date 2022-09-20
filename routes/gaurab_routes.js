@@ -44,7 +44,7 @@ router.post('/',async(req,res) =>{
 
     try{
         const data1= gaurabb.save()
-        res.send("success ")
+       // res.send("success ")
         res.json(data1)
     }catch(err){
         res.send("error _ gaurab"+err.stack)
