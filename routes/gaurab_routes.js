@@ -38,7 +38,7 @@ router.post('/',async(req,res) =>{
             pet_name: req.body.pet_name,
             owner_name : req.body.owner_name,
             age : req.body.age,
-            breed : req.body.type,
+            breed : req.body.breed,
             gender : req.body.gender
     })
 
