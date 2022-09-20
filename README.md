@@ -8,7 +8,7 @@ We can have the CRUD operations over this API very easily, for the development p
 
 **__There are four different kind of request that my API can handle.__**
 
-***First let's check all the Documents that our mongoDB schema have :>***
+***First let's check all the Documents or schema that our mongoDB database have :>***
 
 READ (router.get)
 
