@@ -22,9 +22,12 @@ CREATE (router.post)
 ![image](https://user-images.githubusercontent.com/93596846/191355368-eb660416-19d6-4bf8-b991-a99a973678e3.png)
 
 ***Let's check the documents now
+
+![image](https://user-images.githubusercontent.com/93596846/191359693-808cdc46-d743-4d50-84c8-10b4dc36adcc.png)
+
+***Hey! I added some more pets : )***
 ![image](https://user-images.githubusercontent.com/93596846/191355489-80ae06ea-dfa8-474d-ae13-a5b5906f5129.png)
 
-***Hey! I added some more pets :)***
 
 By individual id (router.get(‘/:id’)
 ***Let's try the id number : "632a1e82b755a0296c9d7df5"
